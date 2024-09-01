@@ -6,7 +6,7 @@ function MainContent() {
   return (
     <>
       <div className="logo">
-        <img src="./src/images/logo.svg" alt="base-logo" />
+        <img src="/src/images/logo.svg" alt="base-logo" />
       </div>
 
       <div className="container">

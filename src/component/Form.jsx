@@ -54,7 +54,7 @@ function Form() {
       {/* for error icon (red exclaim mark) */}
       {errorVisible && (
         <div id="icon-error" style={{ display: "block", color: "red" }}>
-          <img src="./src/images/icon-error.svg" alt="icon-error" />
+          <img src="/src/images/icon-error.svg" alt="icon-error" />
           {/*
             alternate error: 
             &#x26A0; 
@@ -63,7 +63,7 @@ function Form() {
       )}
 
       <button id="button" type="submit">
-        <img src="./src/images/icon-arrow.svg" alt="icon-arrow" />
+        <img src="/src/images/icon-arrow.svg" alt="icon-arrow" />
       </button>
 
       {/* return message in green text (successful) */}

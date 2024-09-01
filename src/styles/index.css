@@ -48,7 +48,7 @@ h1 span {
 .container .user {
   width: 80%;
   height: 100vh;
-  background-image: url("./src/images/hero-desktop.jpg");
+  background-image: url("/src/images/hero-desktop.jpg");
   background-size: cover;
 }
 
@@ -57,7 +57,7 @@ h1 span {
   width: 100%;
   height: 100vh;
   padding-left: 10%;
-  background-image: url("./src/images/bg-pattern-desktop.svg");
+  background-image: url("/src/images/bg-pattern-desktop.svg");
   background-size: cover;
   background-position: center;
 }
@@ -92,7 +92,7 @@ h1 span {
   }
 
   .user {
-    background-image: url("./src/images/hero-mobile.jpg") !important;
+    background-image: url("/src/images/hero-mobile.jpg") !important;
     width: 100% !important;
     height: 333px !important;
     background-position: center !important;

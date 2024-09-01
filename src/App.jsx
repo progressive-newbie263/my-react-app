@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <MainContent />
-      {/*<Footer />*/}
+      <Footer />
     </>
   )
 }
