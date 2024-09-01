@@ -120,13 +120,14 @@ h1 span {
     width: 100%;
     padding: 10px;
     font-size: 1rem;
-    margin-top: 20px;
+    margin-top: 5px;
     border-radius: 50px;
     border: 1px solid hsl(0, 93%, 68%);
   }
 
   .content button {
-    margin-top: 20px;
+    width: 80px !important;
+    margin-top: 5px;
     background-color: hsl(0, 93%, 68%);
     border: none;
     padding: 10px;
